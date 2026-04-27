@@ -1,0 +1,3 @@
+C:/Users/rrrie/OneDrive/Desktop/LRT_Ticketing/cmake-build-debug/CMakeFiles/LRT_Ticketing.dir
+C:/Users/rrrie/OneDrive/Desktop/LRT_Ticketing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rrrie/OneDrive/Desktop/LRT_Ticketing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
